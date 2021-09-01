@@ -1,6 +1,6 @@
-I’m <i>@zd3rki</i> <br>
+I'm <i>@zd3rki</i> <br>
 My code is bad, <br>
-but i dont really care.
+but i don't really care.
 
 
 <!---
