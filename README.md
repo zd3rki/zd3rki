@@ -1,6 +1,6 @@
 I'm <i>@zd3rki</i> <br>
-My code is bad, <br>
-but i don't really care.
+My code <b>works</b>, <br>
+hopefully... ¯\\_(ツ)_/¯
 
 
 <!---
