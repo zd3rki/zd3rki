@@ -21,7 +21,7 @@ hopefully... ¯\\_(ツ)_/¯
 ### Operating systems
     ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=4815ad)
                  ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=4815ad)<br />
-     /  \\                   /  \\<br />
+     /  \\                    /  \\<br />
 ![](https://img.shields.io/badge/Windows_XP-informational?style=flat&logo=windowsxp&logoColor=white&color=1780e3)
 ![](https://img.shields.io/badge/Windows_10-informational?style=flat&logo=windows&logoColor=white&color=1780e3)
           ![](https://img.shields.io/badge/Cent_OS-informational?style=flat&logo=centos&logoColor=white&color=1780e3)
