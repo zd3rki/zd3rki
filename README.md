@@ -1,6 +1,6 @@
 # sup <img src="https://raw.githubusercontent.com/zd3rki/zd3rki/main/fishgroove.gif" alt=" " width="auto" height="30px">
 
-I'm <i>@zd3rki</i> <br />
+I'm <i>@zderki_</i> <br />
 My code <b>works</b>, <br />
 hopefully... ¯\\_(ツ)_/¯
 
